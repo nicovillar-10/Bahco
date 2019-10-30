@@ -58,7 +58,7 @@ include "config/lateral.php";
  
 include "config/superior.php"; 
  ?>
-<!--HASTA ACA ES  COMUN PARA TODAS LAS PAGINAS!!!!!! -->
+<!--HASTA ACA ES  probando git COMUN PARA TODAS LAS PAGINAS!!!!!! -->
 
  <!-- Comienzo contenido de la pagina-->
         <!-- Comienzo tabla-->
